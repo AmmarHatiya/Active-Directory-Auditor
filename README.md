@@ -21,8 +21,8 @@ This tool provides a fast, actionable way to surface these issues and standardiz
 * Assigns **severity levels** for prioritization
 * Generates:
 
-  * `discrepancies.csv` — full audit results
-  * `remediation.ps1` — PowerShell disable commands
+  * `discrepancies.csv` : full audit results
+  * `remediation.ps1` : PowerShell disable commands
 * Includes **dry-run mode** for safe preview
 * Works with **CSV AD exports** or can be extended to LDAP/MS Graph
 
