@@ -1,0 +1,6 @@
+sAMAccountName,displayName,lastLogonTimestamp,enabled,mail,memberOf,licenseAssigned
+ahat,Ammar Hatiya,2026-01-01,True,ahatiya@gip.com,"['Domain Users']",True
+jdoe,John Doe,2024-05-01,True,jdoe@example.com,"['Domain Users']",True
+asmith,Alice Smith,2023-11-01,False,asmith@example.com,"['Domain Users']",True
+bwilson,Bob Wilson,2025-01-15,True,bwilson@example.com,"['IT Admins']",False
+tgreen,Tom Green,2023-09-10,True,tgreen@example.com,"['Domain Users']",True
